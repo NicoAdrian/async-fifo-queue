@@ -1,0 +1,30 @@
+{
+  "name": "async-fifo-queue",
+  "version": "1.0.0",
+  "description": "Simple async FIFO queue implementation in modern Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoAdrian/async-fifo-queue.git"
+  },
+  "keywords": [
+    "node",
+    "async",
+    "fifo",
+    "queue",
+    "es6"
+  ],
+  "author": "Nicolas Adrian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicoAdrian/async-fifo-queue/issues"
+  },
+  "homepage": "https://github.com/NicoAdrian/async-fifo-queue#readme",
+  "devDependencies": {
+    "eslint": "^7.8.1",
+    "jest": "^26.4.2"
+  }
+}
