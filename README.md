@@ -42,3 +42,9 @@ The Queue object also has additionnal properties:
 * `currSize` returns the current size of the queue
 * `isEmpty()` returns true if the queue is empty
 * `isFull()` returns true if the queue is full
+
+## Tests
+
+This project uses [Jest](https://github.com/facebook/jest).
+
+`npm run test`
