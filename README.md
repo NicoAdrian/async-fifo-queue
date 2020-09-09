@@ -1,5 +1,5 @@
 # async-fifo-queue
-Simple async FIFO queue implementation in modern Javascript with 0 dependency.
+Simple async FIFO (First In, First Out) queue implementation in modern Javascript with 0 dependency.
 
 ## Installation
 
